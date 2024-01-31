@@ -20,6 +20,14 @@ Each data structure has its own directory along with a separate README file.
 |**09**      |Mathematics                          |[divisors](./divisors%20of%20a%20number/)         |
 |**10**      |Mathematics                          |[Sieve of Eratosthenes](./Sieve%20of%20Eratosthenes/)         |
 |**11**      |Array                                |[peak element](./peak%20element/)         |
-|**12**      |Array                          |[minmax](./min%20and%20max/)         |
+|**12**      |Array                                |[minmax](./min%20and%20max/)         |
+|**13**      |Array                                |[sum of sub array](./sum%20of%20sub%20array/)         |
+|**14**      |Array                                |[rearrange](./rearrange/)         |
+|**15**      |Array                                |[occurence](./occurence/)         |
+|**16**      |Array                                |[reversal](./Array%20reversal/)         |
+|**17**      |Array                                |[dutch national flag problem](./dutch%20national%20flag%20problem/)         |
+|**18**      |Array                                |[kth larest and smallest](./kth%20largest%20and%20smallest/)         |
+|**19**      |Array                                |[union and intersection](./u%20and%20i/)         |
+|**20**      |Array                                |[rotate array cyclically](./rotate%20array%20cyclically/)         |
 
 
