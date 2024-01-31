@@ -17,6 +17,7 @@ Each data structure has its own directory along with a separate README file.
 |**06**      |Mathematics                          |[LCM](./lcm/)                                     |
 |**07**      |Mathematics                          |[prime checker](./prime/)                         |
 |**07**      |Mathematics                          |[prime factors](./prime%20factors/)               |
+|**08**      |Mathematics                          |[divisors](./divisors%20of%20a%20number/)                                    |
 
 
 
