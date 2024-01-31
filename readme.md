@@ -18,6 +18,7 @@ Each data structure has its own directory along with a separate README file.
 |**07**      |Mathematics                          |[prime checker](./prime/)                         |
 |**08**      |Mathematics                          |[prime factors](./prime%20factors/)               |
 |**09**      |Mathematics                          |[divisors](./divisors%20of%20a%20number/)         |
+|**10**      |Mathematics                          |[Sieve of Eratosthenes](./Sieve%20of%20Eratosthenes/)         |
 
 
 
