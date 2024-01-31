@@ -9,4 +9,4 @@ Each data structure has its own directory along with a separate README file.
 ## Contents
 |Day         |Topic                                |Question                                          |
 |:----------:|:-----------------------------------:|:------------------------------------------------:|
-|**00**      |Mathematics                          |[Number of digits](./number%20of%20digits/)       |
+|**00**      |Mathematics                          |[Count digits](./count%20digits/)                 |
