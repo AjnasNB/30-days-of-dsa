@@ -9,6 +9,8 @@ Each data structure has its own directory along with a separate README file.
 ## Contents
 |Day         |Topic                                |Question                                          |
 |:----------:|:-----------------------------------:|:------------------------------------------------:|
-|**00**      |Mathematics                          |[Count digits](./count%20digits/)                 |
-|**01**      |Mathematics                          |[Palindrome or not](./palidrome%20check/)         |
-|**02**      |Mathematics                          |[Factorial](./factorial/)                         |
+|**01**      |Mathematics                          |[Count digits](./count%20digits/)                 |
+|**02**      |Mathematics                          |[Palindrome or not](./palidrome%20check/)         |
+|**03**      |Mathematics                          |[Factorial](./factorial/)                         |
+|**04**      |Mathematics                          |[trailing zeror](./trailing_zero/)                |
+|**05**      |Mathematics                          |[gcd](./gcd/)                     |
