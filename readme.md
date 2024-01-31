@@ -10,3 +10,5 @@ Each data structure has its own directory along with a separate README file.
 |Day         |Topic                                |Question                                          |
 |:----------:|:-----------------------------------:|:------------------------------------------------:|
 |**00**      |Mathematics                          |[Count digits](./count%20digits/)                 |
+|**01**      |Mathematics                          |[Palindrome or not](./palidrome%20check/)         |
+|**02**      |Mathematics                          |[Factorial](./factorial/)                         |
