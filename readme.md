@@ -13,4 +13,6 @@ Each data structure has its own directory along with a separate README file.
 |**02**      |Mathematics                          |[Palindrome or not](./palidrome%20check/)         |
 |**03**      |Mathematics                          |[Factorial](./factorial/)                         |
 |**04**      |Mathematics                          |[trailing zeror](./trailing_zero/)                |
-|**05**      |Mathematics                          |[gcd](./gcd/)                     |
+|**05**      |Mathematics                          |[gcd](./gcd/)                                     |
+|**06**      |Mathematics                          |[LCM](./lcm/)                                     |
+
