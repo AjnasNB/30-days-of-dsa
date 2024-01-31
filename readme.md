@@ -15,4 +15,6 @@ Each data structure has its own directory along with a separate README file.
 |**04**      |Mathematics                          |[trailing zeror](./trailing_zero/)                |
 |**05**      |Mathematics                          |[gcd](./gcd/)                                     |
 |**06**      |Mathematics                          |[LCM](./lcm/)                                     |
+|**07**      |Mathematics                          |[prime checker](./prime/)                                     |
+
 
