@@ -29,5 +29,9 @@ Each data structure has its own directory along with a separate README file.
 |**18**      |Array                                |[kth larest and smallest](./kth%20largest%20and%20smallest/)         |
 |**19**      |Array                                |[union and intersection](./u%20and%20i/)         |
 |**20**      |Array                                |[rotate array cyclically](./rotate%20array%20cyclically/)         |
+|**21**      |Array                                |[missing number](./missing%20number/)         |
+|**22**      |Array                                |[Sum target](./rotate%20array%20cyclically/)         |
+
+
 
 
