@@ -33,6 +33,8 @@ Each data structure has its own directory along with a separate README file.
 |**22**      |Array                                |[Sum target](./rotate%20array%20cyclically/)                        |
 |**23**      |Array                                |[Find duplicate](./find%20duplicate%20in%20array/)                  |
 |**24**      |Array                                |[Common](./common%20element/)                                       |
+|**25**      |Array                                |[repeated element in array](./repeated%20element%20in%20array/)     |
+
 
 
 
