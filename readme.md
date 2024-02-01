@@ -35,6 +35,7 @@ Each data structure has its own directory along with a separate README file.
 |**24**      |Array                                |[Common](./common%20element/)                                       |
 |**25**      |Array                                |[repeated element in array](./repeated%20element%20in%20array/)     |
 |**26**      |Array                                |[non repeated element in array](./non%20repeating%20element/)       |
+|**27**      |leetcode                              |[Two sum](./Two%20sum/)       |
 
 
 
