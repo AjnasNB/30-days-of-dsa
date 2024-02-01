@@ -9,3 +9,4 @@ function rotate(arr){
     return arr
 }
 console.log(rotate([1,2,3,4,5]))
+
