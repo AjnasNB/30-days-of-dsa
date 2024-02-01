@@ -1,15 +1,18 @@
-// Two sum
-function twosum(nums,target){
-    dict={}
-    for(let i=0;i<nums.length;i++){
-        if(target-nums[i]  in dict){
-            return [dict[target-nums[i]],i]
-        }
-        else{
-            dict[nums[i]]=i
-        
+//max area
+function maxArea(height) {
+    let max=0
+    let left=0
+    let right=height.length-1
+    while(left<right){
+        let h=Math.min(height[left],height[right])
+        max=Math.max(max,h*(right-left))
+        if(height[left]<height[right]){
+            left++
+        }else{
+            right--
         }
     }
-    return "No two sum solution"
+    return max
+
 }
-console.log(twosum([2,7,11,15],9));
+console.log(maxArea([1,8,6,2,5,4,8,3,7]))
