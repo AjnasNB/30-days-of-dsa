@@ -40,6 +40,7 @@ Each data structure has its own directory along with a separate README file.
 |**29**      |leetcode                             |[median](./median%20of%20array/)|
 |**30**      |leetcode                             |[Water level](./water%20level/)|
 |**31**      |leetcode                             |[Threesum](./3sum/)|
+|**32**      |leetcode                             |[Removed element](./Removed%20element/)|
 
 
 
