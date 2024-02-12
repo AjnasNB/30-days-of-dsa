@@ -41,6 +41,7 @@ Each data structure has its own directory along with a separate README file.
 |**30**      |leetcode                             |[Water level](./water%20level/)|
 |**31**      |leetcode                             |[Threesum](./3sum/)|
 |**32**      |leetcode                             |[Removed element](./Removed%20element/)|
+|**33**      |Linkedlist                            |[Linkedlist basic problem ](./linked%20list/)|
 
 
 
